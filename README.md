@@ -9,3 +9,12 @@ Crio soluções que fazem a diferença. Meu interesse pela comunicação digital
 [![Database](https://img.shields.io/badge/-Database-3E7B7B?style=flat-square&logo=database&logoColor=ffffff)](https://en.wikipedia.org/wiki/Database)
 
 
+## Minhas Skills 💻
+
+### Ferramentas e Softwares
+
+[![Microsoft Word](https://img.shields.io/badge/-Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=ffffff)](https://www.microsoft.com/pt-br/microsoft-365/word)
+[![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=ffffff)](https://www.microsoft.com/pt-br/microsoft-365/excel)
+[![Microsoft Power BI](https://img.shields.io/badge/-Power_BI-FFB81C?style=flat-square&logo=microsoft-powerbi&logoColor=ffffff)](https://powerbi.microsoft.com/)
+
+
