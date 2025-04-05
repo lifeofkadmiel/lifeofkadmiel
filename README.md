@@ -1,6 +1,8 @@
 ## HELLO WORLD!! 👋
 
-Crio soluções que fazem a diferença. Meu interesse pela comunicação digital me levou a unir o desenvolvimento com a comunicação, compreendendo sua essência além de apenas programar.
+Crio soluções inovadoras que impactam e transformam. Meu interesse pela comunicação digital me levou a integrar o desenvolvimento com a comunicação, entendendo a essência de cada projeto além de apenas programar.
+
+Atualmente, estou no último período do curso de Análise e Desenvolvimento de Sistemas na UNISUAM, onde continuo expandindo meu conhecimento sobre tecnologias e melhores práticas de desenvolvimento. Apaixonado por resolver problemas, minha jornada é pautada pela busca constante por evolução, tanto como profissional quanto como pessoa. Estou sempre aberto a novos desafios que me permitam crescer e contribuir para um futuro mais tecnológico e conectado.
 
 [![HTML](https://img.shields.io/badge/-HTML-FF5733?style=flat-square&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-4A90E2?style=flat-square&logo=css3&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
