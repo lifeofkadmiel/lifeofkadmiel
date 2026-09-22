@@ -4,13 +4,14 @@ Crio soluções inovadoras que impactam e transformam. Meu interesse pela comuni
 
 Estou em busca de novos desafios no mercado de tecnologia para somar com o desenvolvimento de aplicações web/mobile e dados eficientes
 
-[![HTML](https://shields.io)](https://mozilla.org)
-[![CSS](https://shields.io)](https://mozilla.org)
-[![JavaScript](https://shields.io)](https://mozilla.org)
-[![Node.js](https://shields.io)](https://nodejs.org)
-[![Python](https://shields.io)](https://python.org)
-[![SQL](https://shields.io)](https://wikipedia.org)
-[![Database](https://shields.io)](https://wikipedia.org)
+![HTML](https://shields.io)
+![CSS](https://shields.io)
+![JavaScript](https://shields.io)
+![Node.js](https://shields.io)
+![Python](https://shields.io)
+![SQL](https://shields.io)
+![Database](https://shields.io)
+
 
 
 ## Minhas Skills 💻
